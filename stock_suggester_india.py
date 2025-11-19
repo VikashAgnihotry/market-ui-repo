@@ -1,3 +1,4 @@
+ 
 #!/usr/bin/env python3
 """
 stock_suggester_india.py

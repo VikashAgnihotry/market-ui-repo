@@ -1,3 +1,4 @@
+ 
 # app_market_ui.py
 """
 Streamlit UI inspired by Grow/Upstox:
@@ -327,4 +328,3 @@ for card in page_cards:
 st.markdown("---")
 st.caption("This demo uses a fast heuristic to produce suggestions for the list. "
            "You can plug in your heavy ML pipeline by adding stock_suggester_india.py with run_pipeline(stock_ticker, years, pct_threshold).")
-

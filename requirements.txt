@@ -1,0 +1,13 @@
+streamlit==1.30.0
+pandas
+numpy
+yfinance
+requests
+ta
+pytz
+scikit-learn
+# For ML on the server, prefer prebuilt lightgbm wheel if possible:
+lightgbm
+# Optional India-specific
+jugaad-data
+nsepython
